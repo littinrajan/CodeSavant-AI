@@ -1,6 +1,6 @@
 # 🚀 CodeSavant-AI: A GenAI-Based Code Reviewing App
 
-Welcome to CodeSavant-AI! 🤖 This powerful code reviewing application is powered by cutting-edge artificial intelligence. Say goodbye to manual code reviews and hello to an intelligent assistant that helps you identify bugs, improve code quality, and enhance your development process.
+Welcome to CodeSavant-AI! This powerful code reviewing application is powered by cutting-edge artificial intelligence. Say goodbye to manual code reviews and hello to an intelligent assistant that helps you identify bugs, improve code quality, and enhance your development process.
 
 ## ✨ Features
 
